@@ -10,6 +10,6 @@ Feel free to reach out to me through any of the following channels:
 
 [LinkedIn](https://www.linkedin.com/in/kaleb-duchesneau-249b44325/)
 
-[GitHub](github.com/FredDude2004)
+[GitHub](https://github.com/FredDude2004)
 
 
