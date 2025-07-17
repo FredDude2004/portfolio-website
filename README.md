@@ -6,7 +6,7 @@ Features
 
 Feel free to reach out to me through any of the following channels:
 
-<a href="mailto:kalebduchesneau\@gmail.com">kalebduchesneau\@gmail.com</a>
+<a href="mailto:kalebduchesneau\@gmail.com" target="_blank">Email</a>
 
 [LinkedIn](https://www.linkedin.com/in/kaleb-duchesneau-249b44325/)
 
