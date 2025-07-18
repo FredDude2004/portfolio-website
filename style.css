@@ -397,7 +397,7 @@ h1 > span {
   width: 60px;
   height: auto;
   transition: transform 0.2s ease;
-  filter: grayscale(100%);
+  /* filter: brightness(0) invert(1); */
 }
 
 .svg-container img:hover {
